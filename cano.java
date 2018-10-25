@@ -2,7 +2,7 @@ package net.davidvalles.batalla;
 
 
 /**
- * Defineix un objecte que es mou per pantalla.
+ * Defineix un objecte que es mou per pantalla. MODIFICACIO
  *
  * @author david
  */
